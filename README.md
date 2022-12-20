@@ -7,9 +7,13 @@
 Номер - vvot34
 
 В файле index.py находится код для контейнера, который заливает обработанное изображение в новый бакет 
+
 Имеется Dockerfile 
-bot-function.py - функция c реализацией тг бота 
+
+bot-function.py - функция c реализацией тг бота
+
 face-function.py - функция для получения данных для обработки файл 
+
 api-gateway-config - конфиг API GATEWAY
 
 Ссылка на бота - https://t.me/byYCBot - MyYCBot
